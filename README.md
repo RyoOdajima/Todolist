@@ -4,8 +4,4 @@ ToDoListです。
 
 
 
-
-
-
-
-<img width="444" height="211" alt="image" src="https://github.com/user-attachments/assets/af2fced3-948f-4155-8641-54fb73e23896" />
+<img width="444" height="211" alt="image" src="https://github.com/user-attachments/assets/9053b88b-34eb-47c0-ab88-7c3ca5484bc1" />
